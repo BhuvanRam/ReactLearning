@@ -1,0 +1,40 @@
+{
+    "movies": [
+        {
+            "MovieImage": "PulpFiction",
+            "MovieTitle": "Pulp Fiction",
+            "ReleaseYear": "2004",
+            "Genre": "Action & Adventure"
+        },
+        {
+            "MovieImage": "Avengers",
+            "MovieTitle": "Avengers",
+            "ReleaseYear": "2004",
+            "Genre": "Action & Adventure"
+        },
+        {
+            "MovieImage": "BohemianRhapsody",
+            "MovieTitle": "BohemianRhapsody",
+            "ReleaseYear": "2000",
+            "Genre": "Drama"
+        },
+        {
+            "MovieImage": "Gravity",
+            "MovieTitle": "Gravity",
+            "ReleaseYear": "2018",
+            "Genre": "Scifi"
+        },
+        {
+            "MovieImage": "Inception",
+            "MovieTitle": "Inception",
+            "ReleaseYear": "2017",
+            "Genre": "Scifi"
+        },
+        {
+            "MovieImage": "KillBill",
+            "MovieTitle": "KillBill",
+            "ReleaseYear": "2009",
+            "Genre": "Drama"
+        }
+    ]
+}

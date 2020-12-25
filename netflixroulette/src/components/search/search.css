@@ -1,0 +1,15 @@
+.parent-container
+{
+    height: 150px !important;
+}
+
+.search-row
+{
+    margin-top: 7% !important;
+}
+
+.search-textbox
+{
+    height:40px;
+    border-radius:10px
+}
